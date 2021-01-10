@@ -1,0 +1,9 @@
+The list of transport units : 
+Truck Type : truck
+Seal Number : jlj89
+Volume : 120
+Weight : 3445
+Container Type : container
+Seal Number : joj345
+Volume : 56
+Weight : 3400
